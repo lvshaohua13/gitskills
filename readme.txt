@@ -1,3 +1,3 @@
 Creating a new branch is quick and simple.
 xiugai
-修复bug
+修复了bug
